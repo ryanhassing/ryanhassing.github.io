@@ -1,1 +1,8 @@
 title: ryan
+email: ryan.howardanton.hassing@gmail.com
+url: "https://ryanhassing.github.io/"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
